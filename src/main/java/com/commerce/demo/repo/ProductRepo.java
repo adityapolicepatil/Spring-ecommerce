@@ -7,4 +7,5 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Repository
 public interface ProductRepo extends JpaRepository<Product, Integer> {
+
 }
