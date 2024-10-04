@@ -1,2 +1,0 @@
-INSERT INTO product (ID, AVAILABLE, BRAND, CATEGORY, `DESC`, NAME, PRICE, QUANTITY, RELEASE_DATE)
-VALUES ( 01,true, 'tata', 'car', 'nicecar', 'nexx1', 10000, 100, '2024-01-15'), ( 02,true, 'tata1', 'car1', 'nicecar1', 'nexx2', 100001, 100, '2024-01-15'),( 03,true, 'tata2', 'car2', 'nicecar', 'nexx4', 10000, 100, '2024-01-15'),( 04,true, 'tata5', 'ca1r', 'n1icecar', 'nexx11', 110000, 1001, '2024-01-15');
