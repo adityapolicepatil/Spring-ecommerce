@@ -1,2 +1,2 @@
 INSERT INTO product ( AVAILABLE, BRAND, CATEGORY, DESCRIPTION, NAME, PRICE, STOCK_QUANTITY, RELEASE_DATE)
-VALUES ( true, 'tata', 'car', 'nicecar', 'nexx1', 10000, 100, '2024-01-15'), ( true, 'tata1', 'car1', 'nicecar1', 'nexx2', 100001, 100, '2024-01-15'),(true, 'tata2', 'car2', 'nicecar', 'nexx4', 10000, 100, '2024-01-15'),(true, 'tata5', 'ca1r', 'n1icecar', 'nexx11', 110000, 1001, '2024-01-15');
+VALUES ( true, 'tata', 'car', 'nicecar', 'nexx1', 10000, 100, '2024-01-15'), ( true, 'tata1', 'cxar1', 'nicecar1', 'nexx2', 100001, 100, '2024-01-15'),(true, 'tata2', 'car2', 'nicecar', 'nexx4', 10000, 100, '2024-01-15'),(true, 'tata5', 'ca1r', 'n1icecar', 'nexx11', 110000, 1001, '2024-01-15');
