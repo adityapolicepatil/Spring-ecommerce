@@ -30,7 +30,7 @@ Configure the database:
 Create a new MySQL database.
 Update the application.properties file with your MySQL credentials.
 
-Build and run the application:"\n"
+Build and run the application:
 mvn clean install
 mvn spring-boot:run
 
