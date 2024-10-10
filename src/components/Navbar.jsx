@@ -107,7 +107,7 @@ const Navbar = ({ onSelectCategory, onSearch }) => {
       <header>
         <nav className="navbar navbar-expand-lg fixed-top">
           <div className="container-fluid">
-            <a className="navbar-brand" href="http://localhost:8080/api/products">
+            <a className="navbar-brand" href="/">
               E-com
             </a>
             <button
@@ -126,11 +126,6 @@ const Navbar = ({ onSelectCategory, onSearch }) => {
               id="navbarSupportedContent"
             >
               <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-                <li className="nav-item">
-                  <a className="nav-link active" aria-current="page" href="/">
-                    Home
-                  </a>
-                </li>
                 <li className="nav-item">
                   <a className="nav-link" href="/add_product">
                     Add Product
