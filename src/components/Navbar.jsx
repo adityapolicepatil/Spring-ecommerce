@@ -107,7 +107,7 @@ const Navbar = ({ onSelectCategory, onSearch }) => {
       <header>
         <nav className="navbar navbar-expand-lg fixed-top">
           <div className="container-fluid">
-            <a className="navbar-brand" href="http://localhost:8080/api/products/">
+            <a className="navbar-brand" href="http://localhost:8080/api/products">
               E-com
             </a>
             <button
