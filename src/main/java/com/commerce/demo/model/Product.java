@@ -20,7 +20,7 @@ public class Product {
     private String name;
     private String description;
     private Date releaseDate;
-    private boolean available;
+    private boolean productAvailable;
     private int stockQuantity;
     private String brand;
     private String category;
